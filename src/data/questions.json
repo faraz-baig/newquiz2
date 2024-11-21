@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "statement": "1. Which character is displayed in the picture?",
+        "image":"/images/image1.jpeg",
+        "options": [
+            " JIN",
+            " KAZUYA",
+            " LAW",
+            " BRYAN"
+        ],
+        "correctOptionIndex": 1
+    },
+    {
+        "id": 2,
+        "statement": "2. Which character is displayed in the picture?",
+        "image":"/images/image2.jpeg",
+        "options": [
+            " KING",
+            " ARMOUR KING",
+            " EDDY",
+            " HIACHI"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "id": 3,
+        "statement": "3. Which character is displayed in the picture?",
+        "image":"/images/image3.jpeg",
+        "options": [
+            " ZAFINA",
+            " NINA",
+            " KAZUMI",
+            " KUNIMITSU"
+        ],
+        "correctOptionIndex": 0
+    },
+    {
+        "id": 4,
+        "statement": "4. Which character is displayed in the picture?",
+        "image":"/images/image4.jpeg",
+        "options": [
+            " LAW",
+            " CLAUDIO",
+            " LARS",
+            " JIN"
+        ],
+        "correctOptionIndex": 2
+    },
+    {
+        "id": 5,
+        "statement": "5. Which character is displayed in the picture?",
+        "image":"/images/image5.jpeg",
+        "options": [
+            " BOB",
+            " KING",
+            " KUMA",
+            " SHAHEEN"
+        ],
+        "correctOptionIndex": 3
+    }
+]
